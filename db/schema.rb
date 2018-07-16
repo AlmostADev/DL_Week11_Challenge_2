@@ -14,7 +14,7 @@ ActiveRecord::Schema.define(version: 2018_07_16_182223) do
 
   create_table "students", force: :cascade do |t|
     t.string "name"
-    t.text "age"
+    t.integer "age"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

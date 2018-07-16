@@ -2,8 +2,8 @@
 
 one:
   name: MyString
-  age: MyText
+  age: 1
 
 two:
   name: MyString
-  age: MyText
+  age: 1

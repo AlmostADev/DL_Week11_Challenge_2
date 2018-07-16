@@ -12,13 +12,13 @@
 - Confirmar -en el *Schema*- que la migración haya corrido correctamente. :heavy_check_mark:
 - Convertir *Index* de *students* en la página de inicio. :heavy_check_mark:
 - Segundo commit. :heavy_check_mark:
-- Ingresar 2 estudiantes utilizando *rails console* y el método *create*. :x:
-- Ingresar 1 estudiantes a través de la aplicación. :x:
-- Comprobar que los registros se crearon correctamente. :x:
-- Agregar el *CDN* de una plantilla de *[Bootswatch](https://www.bootstrapcdn.com/bootswatch/)*. :x:
-- Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*. :x:
+- Ingresar 2 estudiantes utilizando *rails console* y el método *create*. :heavy_check_mark:
+- Ingresar 1 estudiantes a través de la aplicación. :heavy_check_mark:
+- Comprobar que los registros se crearon correctamente. :heavy_check_mark:
+- Agregar el *CDN* de una plantilla de *[Bootswatch](https://www.bootstrapcdn.com/bootswatch/)*. :heavy_check_mark:
+- Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*. :heavy_check_mark:
 ![ss-students](https://user-images.githubusercontent.com/18556541/26950351-5558f76e-4c6b-11e7-9572-34eb398209a6.png)
-- Tercer commit. :x:
+- Tercer commit. :heavy_check_mark:
 - Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*. :x:
 - Revisar y correr la migración. :x:
 - Ingresar un nuevo estudiante mediante *rails console* (incluir el campo *email*). :x:
