@@ -4,33 +4,33 @@
 
 ## Ejercicio 1: Segundo Proyecto.
 
-- Crear un proyecto llamado ***second_app***.
-- Inicializar *Git*.
-- Primer commit.
-- Crear un ***scaffold*** de *Student* con los campos *name* y *age:integer*.
-- Verificar que el archivo migración contenga los cambios necesarios y correr la migración.
-- Confirmar -en el *Schema*- que la migración haya corrido correctamente.
-- Convertir *Index* de *students* en la página de inicio.
-- Segundo commit.
-- Ingresar 2 estudiantes utilizando *rails console* y el método *create*.
-- Ingresar 1 estudiantes a través de la aplicación.
-- Comprobar que los registros se crearon correctamente.
-- Agregar el *CDN* de una plantilla de *[Bootswatch](https://www.bootstrapcdn.com/bootswatch/)*.
-- Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*.
+- Crear un proyecto llamado ***second_app***. :heavy_check_mark:
+- Inicializar *Git*. :heavy_check_mark:
+- Primer commit. :heavy_check_mark:
+- Crear un ***scaffold*** de *Student* con los campos *name* y *age:integer*. :heavy_check_mark:
+- Verificar que el archivo migración contenga los cambios necesarios y correr la migración. :heavy_check_mark:
+- Confirmar -en el *Schema*- que la migración haya corrido correctamente. :heavy_check_mark:
+- Convertir *Index* de *students* en la página de inicio. :heavy_check_mark:
+- Segundo commit. :heavy_check_mark:
+- Ingresar 2 estudiantes utilizando *rails console* y el método *create*. :x:
+- Ingresar 1 estudiantes a través de la aplicación. :x:
+- Comprobar que los registros se crearon correctamente. :x:
+- Agregar el *CDN* de una plantilla de *[Bootswatch](https://www.bootstrapcdn.com/bootswatch/)*. :x:
+- Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*. :x:
 ![ss-students](https://user-images.githubusercontent.com/18556541/26950351-5558f76e-4c6b-11e7-9572-34eb398209a6.png)
-- Tercer commit.
-- Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*.
-- Revisar y correr la migración.
-- Ingresar un nuevo estudiante mediante *rails console* (incluir el campo *email*).
-- Modificar el *form* de registro de estudiantes para que permita ingresar el correo.
-- Agregar el campo *email* a los *strong params* en el controlador *students*.
-- Cuarto commit.
-- Crear un nuevo controlador llamado *pages* con la página *landing*.
-- En el método *landing* consultar todos los registros de *Student* y almacenarlos en una variable de instancia *@students*
-- En la vista de *landing* iterar la colección *@students* y listar -en una tabla- todos los estudiantes con su respectivo email.
-- Agregar un *navbar* de *Bootswatch* al layout.
+- Tercer commit. :x:
+- Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*. :x:
+- Revisar y correr la migración. :x:
+- Ingresar un nuevo estudiante mediante *rails console* (incluir el campo *email*). :x:
+- Modificar el *form* de registro de estudiantes para que permita ingresar el correo. :x:
+- Agregar el campo *email* a los *strong params* en el controlador *students*. :x:
+- Cuarto commit. :x:
+- Crear un nuevo controlador llamado *pages* con la página *landing*. :x:
+- En el método *landing* consultar todos los registros de *Student* y almacenarlos en una variable de instancia *@students* :x:
+- En la vista de *landing* iterar la colección *@students* y listar -en una tabla- todos los estudiantes con su respectivo email. :x:
+- Agregar un *navbar* de *Bootswatch* al layout. :x:
   > El *navbar* sólo debe contener 2 links: uno a *index* y uno a *landing*.
-- Quinto commit.
-- Crear un repositorio en *GitHub*.
-- Añadir el *remote* al repositorio de *GitHub* y hacer *push*.
-- Inicializar proyecto en *Heroku* y hacer *push*.
+- Quinto commit. :x:
+- Crear un repositorio en *GitHub*. :x:
+- Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :x:
+- Inicializar proyecto en *Heroku* y hacer *push*. :x:
