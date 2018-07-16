@@ -2,12 +2,13 @@
 
 <h1>Students</h1>
 
-<table class = 'table'>
+<table class = 'table text-center'>
   <thead>
     <tr>
       <th>Name</th>
       <th>Age</th>
-      <th colspan="3"></th>
+      <th>Email</th>
+      <th colspan="3">Actions</th>
     </tr>
   </thead>
 
@@ -16,6 +17,7 @@
       <tr>
         <td><%= student.name %></td>
         <td><%= student.age %></td>
+        <td><%= student.email %></td>
         <td><%= link_to 'Show', student, class: 'btn btn-primary' %></td>
         <td><%= link_to 'Edit', edit_student_path(student), class: 'btn btn-success' %></td>
         <td><%= link_to 'Destroy', student, method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-danger' %></td>

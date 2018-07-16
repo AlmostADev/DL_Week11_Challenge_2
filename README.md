@@ -19,12 +19,12 @@
 - Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*. :heavy_check_mark:
 ![ss-students](https://user-images.githubusercontent.com/18556541/26950351-5558f76e-4c6b-11e7-9572-34eb398209a6.png)
 - Tercer commit. :heavy_check_mark:
-- Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*. :x:
-- Revisar y correr la migración. :x:
-- Ingresar un nuevo estudiante mediante *rails console* (incluir el campo *email*). :x:
-- Modificar el *form* de registro de estudiantes para que permita ingresar el correo. :x:
-- Agregar el campo *email* a los *strong params* en el controlador *students*. :x:
-- Cuarto commit. :x:
+- Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*. :heavy_check_mark:
+- Revisar y correr la migración. :heavy_check_mark:
+- Ingresar un nuevo estudiante mediante *rails console* (incluir el campo *email*). :heavy_check_mark:
+- Modificar el *form* de registro de estudiantes para que permita ingresar el correo. :heavy_check_mark:
+- Agregar el campo *email* a los *strong params* en el controlador *students*. :heavy_check_mark:
+- Cuarto commit. :heavy_check_mark:
 - Crear un nuevo controlador llamado *pages* con la página *landing*. :x:
 - En el método *landing* consultar todos los registros de *Student* y almacenarlos en una variable de instancia *@students* :x:
 - En la vista de *landing* iterar la colección *@students* y listar -en una tabla- todos los estudiantes con su respectivo email. :x:
