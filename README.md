@@ -25,12 +25,12 @@
 - Modificar el *form* de registro de estudiantes para que permita ingresar el correo. :heavy_check_mark:
 - Agregar el campo *email* a los *strong params* en el controlador *students*. :heavy_check_mark:
 - Cuarto commit. :heavy_check_mark:
-- Crear un nuevo controlador llamado *pages* con la página *landing*. :x:
-- En el método *landing* consultar todos los registros de *Student* y almacenarlos en una variable de instancia *@students* :x:
-- En la vista de *landing* iterar la colección *@students* y listar -en una tabla- todos los estudiantes con su respectivo email. :x:
-- Agregar un *navbar* de *Bootswatch* al layout. :x:
+- Crear un nuevo controlador llamado *pages* con la página *landing*. :heavy_check_mark:
+- En el método *landing* consultar todos los registros de *Student* y almacenarlos en una variable de instancia *@students* :heavy_check_mark:
+- En la vista de *landing* iterar la colección *@students* y listar -en una tabla- todos los estudiantes con su respectivo email. :heavy_check_mark:
+- Agregar un *navbar* de *Bootswatch* al layout. :heavy_check_mark:
   > El *navbar* sólo debe contener 2 links: uno a *index* y uno a *landing*.
-- Quinto commit. :x:
-- Crear un repositorio en *GitHub*. :x:
-- Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :x:
+- Quinto commit. :heavy_check_mark:
+- Crear un repositorio en *GitHub*. :heavy_check_mark:
+- Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :heavy_check_mark:
 - Inicializar proyecto en *Heroku* y hacer *push*. :x:
