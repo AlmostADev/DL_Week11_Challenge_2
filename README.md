@@ -33,4 +33,4 @@
 - Quinto commit. :heavy_check_mark:
 - Crear un repositorio en *GitHub*. :heavy_check_mark:
 - Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :heavy_check_mark:
-- Inicializar proyecto en *Heroku* y hacer *push*. :x:
+- Inicializar proyecto en *Heroku* y hacer *push*. :heavy_check_mark:
